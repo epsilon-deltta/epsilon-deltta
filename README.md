@@ -12,13 +12,16 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --!>
+
 - These day I'm leading [YGL_Renaissance](https://github.com/yg-renaissance) this team (Data Analysis Team)  
-
-### theseday, what i'm interested in  
+<br>
+### theseday, what i'm interested in  <br> 
 - deep learning   
-
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=epsilon-deltta)](https://github.com/anuraghazra/github-readme-stats)]  
-### things (my favorite)  
+<br>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=epsilon-deltta)](https://github.com/anuraghazra/github-readme-stats)]  
+<br> 
+### things (my favorite)
+<br>
 <code><img title="Python" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img title="Git and Github" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img title="Jupyter Notebooks and Lab" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
