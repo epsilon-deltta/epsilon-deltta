@@ -18,9 +18,8 @@
 ### theseday, what i'm interested in  <br> 
 - deep learning   
 <br>
+<img src='https://github-readme-stats.vercel.app/api?username=epsilon-deltta'>
  <div align=center>
-	
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=epsilon-deltta)](https://github.com/anuraghazra/github-readme-stats)<br>
 
  </div>
 <br> 
