@@ -1,30 +1,22 @@
 ### Hi there 👋
 - 🤔 I’m looking for help with software business
 - 📫 How to reach me: 01084602176 , kokomong1316@gmail.com
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ml
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with software business
-- 💬 Ask me about ...
-- 📫 How to reach me: 01084602176 , kokomong1316@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---!>
-
 - These day I'm leading [YGL_Renaissance](https://github.com/yg-renaissance) this team (Data Analysis Team)  
 <br>
+
 ### theseday, what i'm interested in  <br> 
 - deep learning   
-<br>
-<img src='https://github-readme-stats.vercel.app/api?username=epsilon-deltta'>
- <div align=center>
 
- </div>
-<br> 
-### things (my favorite)
 <br>
+<br>
+<br>
+ <div align=center>
+<img src='https://github-readme-stats.vercel.app/api?username=epsilon-deltta'>
+</div>
+<br> 
+
+### things (my favorite)
+
 <code><img title="Python" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img title="Git and Github" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img title="Jupyter Notebooks and Lab" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
