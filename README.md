@@ -5,7 +5,10 @@
 <br>
 
 ### theseday, what i'm interested in  <br> 
-- deep learning   
+- deep learning 
+    - Vision (object detection (multilabeled-segmentation & classification & semantic segmentation)
+    - Nlp (application of Bert (kind of transformer (that is Attention removed RNN)
+![](https://gaussian37.github.io/assets/img/dl/concept/transformer/0.png)
 
 <br>
 <br>
