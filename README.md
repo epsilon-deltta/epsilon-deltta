@@ -4,6 +4,11 @@
 - These day I'm leading [YGL_Renaissance](https://github.com/yg-renaissance) this team (Data Analysis Team)  
 <br>
 
+### What am i doing Now?
+- prediction of NPL (non-performance-loan)
+    - predicting NPL ratio of each Industries .
+    - predicting collateral security value  when a mortage is classified to NPL.
+
 ### theseday, what i'm interested in  <br> 
 - deep learning 
     - Vision (object detection (multilabeled-segmentation & classification & semantic segmentation)
