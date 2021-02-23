@@ -6,7 +6,7 @@
 
 ### What am i doing Now?
 - prediction of NPL (non-performance-loan)
-    - predicting NPL ratio of each Industries .
+    - predicting NPL ratio of each Industry .
     - predicting collateral security value  when a mortage is classified to NPL.
 
 ### theseday, what i'm interested in  <br> 
