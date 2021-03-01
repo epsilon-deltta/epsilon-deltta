@@ -5,9 +5,8 @@
 <br>
 
 ### What am i doing Now?
-- prediction of NPL (non-performance-loan)
-    - predicting NPL ratio of each Industry .
-    - predicting collateral security value  when a mortage is classified to NPL.
+- Amazon Review sentiemnt Analysis 
+- Thinking About Handling Sequential data (stock) using LSTM model
 
 ### theseday, what i'm interested in  <br> 
 - deep learning 
