@@ -10,10 +10,20 @@
 
 ### theseday, what i'm interested in  <br> 
 - deep learning 
-    - Vision (object detection (multilabeled-segmentation & classification & semantic segmentation)
+    -  General purpose Optimizer 
+        - Explore diverse Optimizers (ex. ADAM[2] , adadelta[4]  etc.)
+        - MadGrad[1] (outperforms ADAM[2])
+        - Visualize the loss surface(landscape) [3]
+        - the relation between generalization and loss sharpness
+        
     - Nlp (application of Bert (kind of transformer (that is Attention removed RNN)
 ![](https://gaussian37.github.io/assets/img/dl/concept/transformer/0.png)
 
+>>>reference
+- [1] A. Defazio and S. Jelassi, “Adaptivity without Compromise: A Momentumized, Adaptive, Dual Averaged Gradient Method for Stochastic Optimization,” pp. 1–31, 2021, [Online]. Available: http://arxiv.org/abs/2101.11075.
+- [2] D. P. Kingma and J. L. Ba, “Adam: A method for stochastic optimization,” Dec. 2015, Accessed: Apr. 13, 2021. [Online]. Available: https://arxiv.org/abs/1412.6980v9.
+- [3] H. Li, Z. Xu, G. Taylor, C. Studer, and T. Goldstein, “Visualizing the loss landscape of neural nets,” in Advances in Neural Information Processing Systems, Dec. 2018, vol. 2018-December, pp. 6389–6399, Accessed: Apr. 17, 2021. [Online]. Available: https://github.com/tomgoldstein/loss-landscape.
+- [4] M. D. Zeiler, “ADADELTA: AN ADAPTIVE LEARNING RATE METHOD.”
 <br>
 <br>
 <br>
