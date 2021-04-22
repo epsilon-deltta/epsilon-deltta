@@ -4,10 +4,6 @@
 - These day I'm leading [YGL_Renaissance](https://github.com/yg-renaissance) this team (Data Analysis Team)  
 <br>
 
-### What am i doing Now?
-- Amazon Review sentiemnt Analysis 
-- Thinking About Handling Sequential data (stock) using LSTM model
-
 ### theseday, what i'm interested in  <br> 
 - deep learning 
     -  General purpose Optimizer 
