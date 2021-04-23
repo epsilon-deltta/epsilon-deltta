@@ -1,7 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there 👋 
-- 🤔 I’m looking for help with software business
 - 📫 How to reach me: 01084602176 , kokomong1316@gmail.com
-- These day I'm leading [YGL_Renaissance](https://github.com/yg-renaissance) this team (Data Analysis Team)  
+
 <br>
 
 ### theseday, what i'm interested in  <br> 
@@ -46,12 +45,12 @@
 <code><img height="20" src="https://banner2.cleanpng.com/20180204/gbw/kisspng-macintosh-mac-os-x-lion-macos-macbook-operating-sy-apple-logo-5a77a762126b40.8775341115177910740755.jpg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png"></code>
 <code><img height="20" src="http://logovectordl.com/wp-content/uploads/2019/11/notion-labs-inc-logo-vector.png"></code>
-<code><img height="20" src="https://assets.brandfolder.com/pl546j-7le8zk-btwjnu/original/Slack_RGB.png"></code>
 <code><img height="20" src="https://post.flow.team/wp-content/uploads/2020/02/flow_logo.gif"></code>
 
 
 
 <!--
+- These day I'm leading [YGL_Renaissance](https://github.com/yg-renaissance) this team (Data Analysis Team)  
 #### what i experienced
 <code><img alt="Tableau" src="https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J" width="32"></code>
 <code><img title="SQL" height="20" src="https://image.flaticon.com/icons/svg/29/29594.svg"></code>
