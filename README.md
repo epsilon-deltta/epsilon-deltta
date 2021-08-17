@@ -1,5 +1,5 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there 👋 
-- 📫 How to reach me: 01084602176 , kokomong1316@gmail.com
+- 📫 How to reach me: 01024960333 , kokomong1316@gmail.com
 
 <br>
 
@@ -23,17 +23,19 @@
 <br>
 <br>
  <div align=center>
-<img src='https://github-readme-stats.vercel.app/api?username=epsilon-deltta'>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=epsilon-deltta&layout=compact&hide=Shell,Batchifile,PowerShell&langs_count=6&theme=react'>
+    <img src='https://github-readme-stats.vercel.app/api?username=epsilon-deltta'>
 </div>
 <br> 
 
-### things (my favorite)
+### my weapons
 
 <code><img title="Python" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img title="Git and Github" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img title="Jupyter Notebooks and Lab" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="32"></code>
-<code><img alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="32"></code>
+<code>
+    <img alt="MySQL" src  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firstquarter-J&layut=compact&hide=Shell,Batchifile,PowerShell&langs_count=6&theme=react)](https://github.com/firstquarter-J/github-readme-stats)="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="32"></code>
 <code><img alt="Djagno" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" width="32"></code>
 <code><img alt="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="32"></code>
 <code><img alt="tensorflow" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="32"></code>
