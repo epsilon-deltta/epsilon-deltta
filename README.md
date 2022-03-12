@@ -5,7 +5,8 @@
 
 ### Theseday, what i'm interested in  <br> 
 - deep learning vision
-    -  Instance segmentation (Mask-RCNN)
+    -  Instance segmentation [Mask-RCNN](https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf)
+    -  Composite backbone network [CBNet](https://arxiv.org/pdf/2107.00420v6.pdf)
 <br>
 <br>
 <br>
