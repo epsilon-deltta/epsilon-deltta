@@ -4,9 +4,12 @@
 <br>
 
 ### Theseday, what i'm interested in  <br> 
+Thesesday Intresets: signal analysis
 - deep learning vision
     -  Instance segmentation [Mask-RCNN](https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf)
     -  Composite backbone network [CBNet](https://arxiv.org/pdf/2107.00420v6.pdf)
+- BioSignal Analysis 
+    - PPG analysis
 <br>
 <br>
 <br>
@@ -14,11 +17,14 @@
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=epsilon-deltta&layout=compact&hide=Shell,Batchifile,PowerShell&langs_count=6&theme=react'>
     <img src='https://github-readme-stats.vercel.app/api?username=epsilon-deltta'>
 </div>
-<br> 
+<br>
+
 
 ### my weapons
 
 <code><img title="Python" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+<!--
 <code><img title="Git and Github" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img title="Jupyter Notebooks and Lab" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="32"></code>
@@ -36,7 +42,7 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png"></code>
 <code><img height="20" src="http://logovectordl.com/wp-content/uploads/2019/11/notion-labs-inc-logo-vector.png"></code>
 <code><img height="20" src="https://post.flow.team/wp-content/uploads/2020/02/flow_logo.gif"></code>
-
+--!>
 
 
 <!--
