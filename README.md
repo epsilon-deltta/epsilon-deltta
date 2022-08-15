@@ -1,7 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there 👋 
-- 📫 How to reach me: 01024960333 , kokomong1316@gmail.com
 
-<br>
+__I want to make a better world using AI tech.__
 
 ### Theseday, what i'm interested in  <br> 
 Thesesday Intresets: signal analysis
