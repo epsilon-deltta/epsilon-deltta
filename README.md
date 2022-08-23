@@ -8,7 +8,11 @@ Thesesday Intresets: signal analysis
     -  Instance segmentation [Mask-RCNN](https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf)
     -  Composite backbone network [CBNet](https://arxiv.org/pdf/2107.00420v6.pdf)
 - BioSignal Analysis 
-    - PPG analysis
+    - PPG, ECG
+   [ppg&ecg2pain](https://github.com/epsilon-deltta/ppg2nrs)
+
+Package
+[ppg preprocessing](https://github.com/epsilon-deltta/ppg)
 <br>
 <br>
 <br>
