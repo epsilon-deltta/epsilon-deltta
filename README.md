@@ -3,16 +3,25 @@
 __I want to make a better world using AI tech.__
 
 ### Theseday, what i'm interested in  <br> 
-Thesesday Intresets: signal analysis
+Intresets: instance segmentation, data augmentation, semi-supervised learning
+
+Packages 
+[ppg preprocessing](https://github.com/epsilon-deltta/ppg)  
+
+Previous works (brief)  
+- BioSignal Analysis 
+    - PPG, ECG [ppg&ecg2pain](https://github.com/epsilon-deltta/ppg2nrs)
+... 
+
+REFERENCES  
+- Data Augmentation
+    - [copy-paste](https://arxiv.org/abs/2012.07177) method in IS
+    
 - deep learning vision
     -  Instance segmentation [Mask-RCNN](https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf)
-    -  Composite backbone network [CBNet](https://arxiv.org/pdf/2107.00420v6.pdf)
-- BioSignal Analysis 
-    - PPG, ECG
-   [ppg&ecg2pain](https://github.com/epsilon-deltta/ppg2nrs)
+    -  Star Composite backbone network [CBNet](https://arxiv.org/pdf/2107.00420v6.pdf)  
+    
 
-Package
-[ppg preprocessing](https://github.com/epsilon-deltta/ppg)
 <br>
 <br>
 <br>
